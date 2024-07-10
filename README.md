@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Svitlana Pavlovska</h1>
-<h3 align="center">FullStack Software Developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svitlanapavl&label=Profile%20views&color=0e75b6&style=flat" alt="svitlanapavl" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Full-Stack Software Development Program with Atlas School, Tulsa**
 
-- 🌱 I’m currently learning **React, Docker, Designer Language**
+- 🌱 At this time I am learning **Backend Technologies**
 
-- 👯 I’m looking to collaborate on **Front-End Development projects**
+- 👯 I’m looking to collaborate on **Full-Stack Web Development projects**
 
-- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about **Full-Stack Web Development**
 
 - 📫 How to reach me **lanapavlovska90@gmail.com**
 
